@@ -24,5 +24,8 @@ This is a simple web application that allows users to search for song lyrics. It
 
 <img width="949" alt="Screenshot 2024-03-23 202912" src="https://github.com/SnehaThange17/Lyrics_Finder/assets/135256822/3411018a-8e37-407c-83c7-b1ac32cae0a9">
 
+<img width="960" alt="image" src="https://github.com/SnehaThange17/Lyrics_Finder/assets/135256822/ec5e8acd-139a-400b-961a-08f34b3887f7">
+
+
 ## Credits
 - [Lyrics.ovh API](https://lyrics.ovh/)
